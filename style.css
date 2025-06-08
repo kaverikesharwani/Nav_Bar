@@ -1,0 +1,39 @@
+/* h1{
+    color: rgb(246, 167, 180);
+}
+h2{
+    color: rgb(177, 75, 128);
+}
+p{
+    color:rgb(207, 40, 67) ;
+}
+button{
+    color: rgb(59, 1, 18);
+    background-color: palevioletred;
+}
+body{
+    background-color: #cf8c7d;
+}
+p{
+    text-align: center;
+} */
+ *{
+    padding: 0;
+    margin: 0;
+    color: white;
+    
+ }
+ #navbar{
+    height: 60px;
+    width: 1000px;
+    background-color:blue;
+ }
+
+ #logo{
+    color: rgb(239, 159, 19);
+    font-size: 25px;
+ }
+ a{
+    margin-right: 100px;
+ }
+ 
