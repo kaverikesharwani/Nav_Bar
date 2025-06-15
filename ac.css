@@ -1,23 +1,4 @@
-/* h1{
-    color: rgb(246, 167, 180);
-}
-h2{
-    color: rgb(177, 75, 128);
-}
-p{
-    color:rgb(207, 40, 67) ;
-}
-button{
-    color: rgb(59, 1, 18);
-    background-color: palevioletred;
-}
-body{
-    background-color: #cf8c7d;
-}
-p{
-    text-align: center;
-} */
- *{
+*{
     padding: 0;
     margin: 0;
     color: white;
@@ -27,6 +8,7 @@ p{
     height: 60px;
     width: 1000px;
     background-color: #0f1111;
+    border: ;
  }
  button{
     background-color:rgb(239, 159, 19) ;
@@ -39,4 +21,18 @@ p{
  a{
     margin-right: 100px;
  }
- 
+
+ .contentbox{
+    height: 100px;
+    width: 100px;
+    border: 2px solid black;
+    display: inline-block;
+ }
+ #content{
+    height: 600px;
+ }
+ footer{
+    color: white;
+    background-color: #0f1111;
+    text-align: center;
+ }
